@@ -287,4 +287,103 @@
 		<StockLevel>9</StockLevel>
 		<is_mp>1</is_mp>
 	</Offer>
+	<Offer>
+    		<Category>LOAD SHEDDING SOLUTIONS > PORTABLE POWER STATIONS</Category>
+    		<ProductName>CTG EYIL Portable Power Station 300Wh</ProductName>
+    		<Manufacturer>CTG EYIL</Manufacturer>
+    		<ModelNumber>CTGAP300</ModelNumber>
+    		<EAN>0746747118324</EAN>
+    		<ShopSKU>CTG AP 300</ShopSKU>
+    		<Description>
+        	<p>Product Specification</p>
+        	<ul>
+            		<li>AC Parameters:</li>
+            	<ul>
+                	<li>1. Rated Output Voltage: 110V/220V</li>
+                	<li>2. Rated Output: 500W</li>
+                	<li>3. Power Protection: 650W</li>
+                	<li>4. Frequency Range: 50Hz/60Hz 3Hz (automatically follows input frequency)</li>
+                	<li>5. Conversion Efficiency: 92%</li>
+                	<li>6. Short-circuit protection: Yes, protection lifted after short circuit defused</li>
+                	<li>7. Thermal Protection: Thermal protection set off when temperature tops 65°C</li>
+                	<li>8. Operating mode: Long press the AC button for switch on/off, with screen displaying on/off</li>
+            	</ul>
+            		<li>Battery Characteristics:</li>
+            	<ul>
+                	<li>1. Battery Type: LiFePo4</li>
+                	<li>2. Total Energy: 230.4WH</li>
+            	</ul>
+            		<li>Charging Function/Charging Port:</li>
+            	<ul>
+                	<li>1. AC power Voltage: AC (100-140VAC/200-240VAC), 150W max. +- 2H to full</li>
+                	<li>2. Car Charging: Standard Car charger to XT60 line, 12-30VDC, 150W max.</li>
+                	<li>3. Solar Charging: 12-30V, 150W max.</li>
+                	<li>4. Adapter Charging: 12V-30V, 150W max.</li>
+                	<li>5. Charging Temperature: 0~45°C</li>
+            	</ul>
+            		<li>DC output:</li>
+            	<ul>
+                	<li>1. TYPE-C: PD 22.5W 5-12V/2.25A; PD2.0/PD3.0/PPS, QC2.0/QC3.0, HUAWEI FCP/SCP, SAMSUNG AFC/BC1.2/DCP, APPLE 2.4, SFCP</li>
+                	<li>2. USB-A1,2,3: 18W QC3.0: 5V/3A, 9V/2A, 12V/1.5A, 18W max</li>
+                	<li>3. 12VDC:</li>
+                <ul>
+	                <li>a) DC5525: 12V10A (shared circuit between DC5525 and Car Charger)</li>
+                	<li>b) Car Charger: Note: When DC output is in function, DC input is unavailable for DC5525 and Car Charger</li>
+                </ul>
+                	<li>4. Wireless Charging: 10W, supports 5W, APPLE 7.5W, SAMSUNG 10W</li>
+            	</ul>
+            		<li>LED Illumination: 4 modes: low-light, high-light, SOS, strobing</li>
+            		<li>Cooling: Fan</li>
+            		<li>BMS Characteristics:</li>
+            	<ul>
+                	<li>1. Rated Current:</li>
+                <ul>
+                    	<li>a. 20A (max) for input, 26A for output</li>
+                    	<li>b. 20A (max) for input, 27A for output</li>
+                </ul>
+                	<li>2. Protection:</li>
+                <ul>
+                    	<li>a. Overcharge protection</li>
+                    	<li>b. Over-discharging protection</li>
+                    	<li>c. Thermal Protection</li>
+                    	<li>d. Over current Protection</li>
+                    	<li>e. Short-Circuit Protection</li>
+                    	<li>f. SOC Calculation</li>
+                </ul>
+            	</ul>
+            		<li>Insulation Resistance & Voltage Withstand Characteristics:</li>
+            	<ul>
+                	<li>1. Insulation & Resistance: Interface to housing 2M 500Vdc</li>
+                	<li>2. Voltage Withstand:</li>
+                <ul>
+                    	<li>a. AC interface to housing: 2KVAC/50HZ 1min</li>
+                    	<li>b. Other interface to housing: 500VAC/50HZ 1min</li>
+                </ul>
+            	</ul>
+            		<li>Operation Noise: 5dB</li>
+            		<li>Weight & Dimension:</li>
+            	<ul>
+                	<li>1. Host Weight: 4.23KG</li>
+                	<li>2. Host Size: 250mm x 177mm x 177mm</li>
+                	<li>3. Set Weight: 6.22KG</li>
+                	<li>4. Package Size: 316mm x 247mm x 315mm</li>
+            	</ul>
+            		<li>What's in the box:</li>
+            	<ul>
+                	<li>1 X Power cable</li>
+                	<li>1 X Product Manual</li>
+                	<li>1 X CTG EYIL Portable Power Station</li>
+            	</ul>
+        	</ul>
+    		</Description>
+    		<Price>4999</Price>
+    		<SalePrice>3899</SalePrice>
+    		<DeliveryCost>Free</DeliveryCost>
+    		<ProductURL>https://www.ctgeyil.com/za/product/Portable-Power-Station-300Wh</ProductURL>
+    		<ImageURL>https://media.takealot.com/covers_images/878a145b578a4399bf173b88f729077a/s-zoom.file</ImageURL>
+    		<Notes>230.4Wh capacity, Efficient charging options, Versatile DC output ports, Wireless charging, Includes LED illumination and fan cooling</Notes>
+    		<StockAvailability>In Stock</StockAvailability>
+    		<StockLevel>9</StockLevel>
+    		<is_mp>1</is_mp>
+	</Offer>
 </Offers>
