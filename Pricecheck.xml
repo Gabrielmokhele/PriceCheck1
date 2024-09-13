@@ -386,4 +386,70 @@
     		<StockLevel>9</StockLevel>
     		<is_mp>1</is_mp>
 	</Offer>
+	<Offer>
+    		<Category>LOAD SHEDDING SOLUTIONS > BATTERIES > LITHIUM-ION BATTERIES</Category>
+    		<ProductName>Ctg Eyil SOLAR COMBO CTGEYIL 24V 100AH + Xindun HF Solar Inverter 3.2KW 24VDC</ProductName>
+    		<Manufacturer>CTG EYIL</Manufacturer>
+    		<ModelNumber>SC0-0001CTGXINDUM3KWH</ModelNumber>
+    		<EAN>0746747118379</EAN>
+    		<ShopSKU>SC0-0001 CTGXINDUM 3kwh</ShopSKU>
+    		<Description>
+        	<p>Solar Combo: CTGEYIL 24V 100AH Battery + Xindun HF Solar Inverter 3.2KW 24VDC</p>
+        	<ul>
+            		<li>CTGEYIL 24V 100AH Lithium Ion Battery:</li>
+            	<ul>
+                	<li>Configuration: 1P16S</li>
+                	<li>Nominal Voltage: 25.6V</li>
+                	<li>Capacity: 100Ah</li>
+                	<li>Rated Energy: 2.56kWh</li>
+                	<li>Cycle Life: 4500 cycles at 70% capacity, 80% DOD</li>
+                	<li>Working Temperature: Charge: 0-40°C, Discharge: -20 to 40°C</li>
+                	<li>Dimensions: 400 x 380 x 148 mm</li>
+                	<li>Weight: 29kg</li>
+                	<li>IP Grade: IP21</li>
+                	<li>Communication: CAN & RS485</li>
+                	<li>Altitude: 0-3000m</li>
+                	<li>Compatibility: Suitable for SRNE inverters</li>
+            	</ul>
+            		<li>Xindun HF Solar Inverter 3.2KW 24VDC (HP Plus 30224):</li>
+            	<ul>
+                	<li>Rated Power: 3000W</li>
+                	<li>Peak Power: 9kVA</li>
+                	<li>Battery Voltage: 24VDC</li>
+                	<li>PV Input Voltage Range: 30V-115VDC</li>
+                	<li>Efficiency: 94% peak (Battery/PV Mode), >99% (AC Mode)</li>
+                	<li>Output: 208/220/230/240VAC, Pure Sine Wave</li>
+                	<li>Charging: Max Battery AC Charging Current: 120A, Max PV Charging Current: 60A</li>
+                	<li>Dimensions: 440 x 300 x 110 mm</li>
+                	<li>Weight: 9.5kg</li>
+                	<li>Installation: Wall-Mounted</li>
+                	<li>Protection: Low Voltage Alarm, Over Voltage Protection, Short Circuit</li>
+                	<li>Cooling: Intelligent Cooling Fan</li>
+                	<li>Communication: RS232/USB/APP/WIFI Monitoring</li>
+                	<li>Transfer Time: 10ms</li>
+            	</ul>
+            		<li>What's in the Box:</li>
+            	<ul>
+                	<li>1 x 2.56kWh Lithium Ion Battery</li>
+                	<li>1 x Hanging Ears</li>
+                	<li>1 x 1.5m Power Cable</li>
+                	<li>1 x Battery Data Sheet</li>
+                	<li>1 x Inverter</li>
+                	<li>1 x Mounting Bolts</li>
+                	<li>1 x Comms Cable</li>
+                	<li>1 x Inverter Manual/Data Sheet</li>
+            	</ul>
+        	</ul>
+    		</Description>
+    		<Price>20999</Price>
+    		<SalePrice>17399</SalePrice>
+    		<DeliveryCost>Free</DeliveryCost>
+    		<ProductURL>https://www.ctgeyil.com/za/product/SOLAR-COMBO-CTGEYIL-24V-100AH-+-Xindun-HF-Solar-Inverter-3.2KW-24VDC</ProductURL>
+    		<ImageURL>https://media.takealot.com/covers_images/d1995bbd73c04d30919334c710aff4d7/s-zoom.file</ImageURL>
+    		<Notes>Powerful solar combo offering a 2.56kWh lithium-ion battery and a high-efficiency 3.2KW solar inverter. Includes essential components for easy installation and reliable performance.</Notes>
+    		<StockAvailability>In Stock</StockAvailability>
+    		<StockLevel>24</StockLevel>
+    		<is_mp>1</is_mp>
+	</Offer>
+
 </Offers>
